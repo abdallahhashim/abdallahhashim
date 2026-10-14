@@ -1,4 +1,3 @@
-[PROFILE_README.md](https://github.com/user-attachments/files/33457191/PROFILE_README.md)
 <h1 align="center">Hi 👋, I'm Abdallah Hashim</h1>
 <h3 align="center">Junior SOC Analyst | Security Operations | SIEM & Log Analysis — Egypt EG</h3>
 
